@@ -45,7 +45,8 @@
     "email": {"type": "string", "format": "email"}
   },
   "required": ["id", "name", "email"]
-}```
+}
+```
 
 ### 6.4. Автоматизация тестирования API
 
