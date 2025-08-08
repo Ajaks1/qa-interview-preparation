@@ -1,5 +1,3 @@
-# theory/07_soap_soapui.md
-
 ## 7. SOAP и SoapUI
 
 ### 7.1. Что такое SOAP
