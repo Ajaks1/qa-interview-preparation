@@ -50,9 +50,8 @@
 
 ### 6.4. Автоматизация тестирования API
 
-    **Postman Collections + Newman** для запуска в CI/CD
+    Postman Collections + Newman для запуска в CI/CD
 
-    **RestAssured (Java)** — библиотека с DSL для написания API-тестов
+    RestAssured (Java) — библиотека с DSL для написания API-тестов
 
     Использование параметризации и data-driven тестов
-
