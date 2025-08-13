@@ -1,4 +1,4 @@
-# QA Interview Guide (Middle Level)
+# QA Interview Guide
 
 Практический справочник для подготовки к собеседованию: теория, инструменты, примеры.
 
