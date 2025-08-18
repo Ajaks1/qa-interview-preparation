@@ -34,6 +34,8 @@
 - **JSON Schema** — формат описания структуры JSON-объектов для автоматической валидации  
 - **XSD (XML Schema Definition)** — аналог для XML
 
+https://www.jsonschemavalidator.net/
+
 Пример валидации JSON в Postman с помощью JSON Schema:
 
 ```json
